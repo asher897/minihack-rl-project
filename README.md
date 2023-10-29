@@ -25,18 +25,12 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 <h2>Results</h2>
 <h3>Actor-Critic</h3>
 <h4>Skill Acquisitions</h4>
-- MiniHack-Room-Random-5x5-v0
-![5x5 Results]("results graphs/random5.png" "random_5x5_results")
-- MiniHack-Room-Random-15x15-v0
-![15x15 Results]("results graphs/random15.png" "random_5x5_results")
-- MiniHack-Eat-v0
-![Eat Results]("results graphs/eat.png" "random_5x5_results")
-- MiniHack-Wear-v0
-![Wear Results]("results graphs/wear.png" "random_5x5_results")
-- MiniHack-LockedDoor-v0
-![Locked Door Results]("results graphs/locked_door.png" "random_5x5_results")
-- MiniHack-LavaCross-Full-v0
-![Lava Cross Results]("results graphs/random5.png" "random_5x5_results")
+![5x5 Results](results_graphs/random5.png "random_5x5_results")
+![15x15 Results](results_graphs/random15.png "random_5x5_results")
+![Eat Results](results_graphs/eat.png "random_5x5_results")
+![Wear Results](results_graphs/wear.png "random_5x5_results")
+![Locked Door Results](results_graphs/locked_door.png "random_5x5_results")
+![Lava Cross Results](results_graphs/random5.png "random_5x5_results")
 
 
 <h3>DQN</h3>
