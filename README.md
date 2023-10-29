@@ -26,11 +26,10 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 <h3>Actor-Critic</h3>
 <h4>Skill Acquisitions</h4>
 <img src="results_graphs/random5.png" width="350" title="hover text">
-<img src="results_graphs/random15.png" width="350" title="hover text">
 <img src="results_graphs/eat.png" width="350" title="hover text">
-<img src="results_graphs/wear.png" width="350" title="hover text">
-<img src="results_graphs/locked_door.png" width="350" title="hover text">
-<img src="results_graphs/random5.png" width="350" title="hover text">
+<img src="results_graphs/lavacross.png" width="350" title="hover text">
+<img src="results_graphs/quest_easy.png" width="350" title="hover text">
+<img src="results_graphs/quest_medium.png" width="350" title="hover text">
 
 <h3>DQN</h3>
 <img src="results_graphs/DQN_5x5_Simple_Ep_Return.png" width="350" title="hover text">
