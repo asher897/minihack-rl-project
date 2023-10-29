@@ -9,6 +9,9 @@ Train the agent on skill acquisation tasks whereby the agent learns certain skil
 Once learned, the agent will attempt to navigate the quest easy and medium environments before attempting the hard environment.</p>
 
 <h2>DQN</h2>
+<p>Deep Q-Networks, a fundamental network architecture of current Reinforcement Learning algorithms allows for neural networks to capture the environments state representation and approximate state-actions values. This capability enables the use of convolutional neural networks to capture semantic information of a single frame or a sequence of frames. As shown in the original DQN paper, DQN’s have the capacity to perform well in game environments as seen in DQN Atari games. Considering the MiniHack-Quest environments poses a similar game-like environment to that of Atari games, applying a DQN structure to such environments would offer valuable insights and potentials for a trained agent. Extracting MiniHack frames was done through the ‘pixel’ observation.</p>
+
+<p>As MiniHack-Quest environments bring many challenging tasks to the agent, building a foundational understanding of the DQN capabilities on progressing harder tasks will help benchmark the DQN agent. As such, the action space was kept to the bare needed actions for each environment. It was also decided that the DQN will only be fed in one frame instead of a sequence of frames due to the simple benchmark environments being relatively simple and maintained a relative Markov property. The DQN structure was set up to be that of the original DQN Atari paper</p>
 
 
 <h2>Actor-Critic</h2>
@@ -21,6 +24,19 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 
 <h2>Results</h2>
 <h3>Actor-Critic</h3>
+<h4>Skill Acquisitions</h4>
+- MiniHack-Room-Random-5x5-v0
+![5x5 Results]("results graphs/random5.png" "random_5x5_results")
+- MiniHack-Room-Random-15x15-v0
+![15x15 Results]("results graphs/random15.png" "random_5x5_results")
+- MiniHack-Eat-v0
+![Eat Results]("results graphs/eat.png" "random_5x5_results")
+- MiniHack-Wear-v0
+![Wear Results]("results graphs/wear.png" "random_5x5_results")
+- MiniHack-LockedDoor-v0
+![Locked Door Results]("results graphs/locked_door.png" "random_5x5_results")
+- MiniHack-LavaCross-Full-v0
+![Lava Cross Results]("results graphs/random5.png" "random_5x5_results")
 
 
 <h3>DQN</h3>
