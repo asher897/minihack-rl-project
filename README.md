@@ -25,12 +25,11 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 <h2>Results</h2>
 <h3>Actor-Critic</h3>
 <h4>Skill Acquisitions</h4>
-![5x5 Results](results_graphs/random5.png "random_5x5_results")
-![15x15 Results](results_graphs/random15.png "random_5x5_results")
-![Eat Results](results_graphs/eat.png "random_5x5_results")
-![Wear Results](results_graphs/wear.png "random_5x5_results")
-![Locked Door Results](results_graphs/locked_door.png "random_5x5_results")
-![Lava Cross Results](results_graphs/random5.png "random_5x5_results")
-
+<img src="results_graphs/random5.png" width="350" title="hover text">
+<img src="results_graphs/random15.png" width="350" title="hover text">
+<img src="results_graphs/eat.png" width="350" title="hover text">
+<img src="results_graphs/wear.png" width="350" title="hover text">
+<img src="results_graphs/locked_door.png" width="350" title="hover text">
+<img src="results_graphs/random5.png" width="350" title="hover text">
 
 <h3>DQN</h3>
