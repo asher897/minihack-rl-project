@@ -33,3 +33,12 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 <img src="results_graphs/random5.png" width="350" title="hover text">
 
 <h3>DQN</h3>
+<img src="results_graphs/DQN_5x5_Simple_Ep_Return.png" width="350" title="hover text">
+<p> MiniHack-Room-5x5-v0 episode Return<p> 
+<img src="results_graphs/DQN_5x5_Random_Returns.png" width="350" title="hover text">
+<p> MiniHack-Room-Random-5x5-v0 episode Return<p>
+<img src="results_graphs/DQN-MiniEasy.png" width="350" title="hover text">
+<p> MiniHack-Quest-Easy-v0 episode Return<p>
+<img src="results_graphs/DQN_Quest_Med_Return.png" width="350" title="hover text">
+<p> MiniHack-Quest-Medium-v0 episode Return<p>
+
