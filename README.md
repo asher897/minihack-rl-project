@@ -25,7 +25,7 @@ Once learned, the agent will attempt to navigate the quest easy and medium envir
 <h2>Results</h2>
 <h3>Actor-Critic</h3>
 <h4>Skill Acquisitions</h4>
-![5x5 Results](results_graphs/random5.png "random_5x5_results")
+![5x5 Results](./results_graphs/random5.png "random_5x5_results")
 ![15x15 Results](results_graphs/random15.png "random_5x5_results")
 ![Eat Results](results_graphs/eat.png "random_5x5_results")
 ![Wear Results](results_graphs/wear.png "random_5x5_results")
